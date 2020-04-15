@@ -7,6 +7,8 @@ Introduction:
 
 This is a text tour of a small home.  I made this as a way to practice with Python's if / while statements.  I hope you enjoy this tour.  If you see an issue with this little program or have a tip to help me learn Python, please feel free to contact me at the email below.
 
+This is my first every python program, so try to be nice!
+
 Anita Keller
 anniede at gmail.com
 https://www.linkedin.com/in/anitakeller/
